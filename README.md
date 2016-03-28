@@ -9,3 +9,10 @@ however some are found in other site, they may found other than that site.
 So, copyright to those authors even ones who licenced it CC0 or No license.
 
 Make your own too! Fork this, add some more crazy change sounds theme, Pull request to this, thank you!
+
+Tools:
+- Stepmania (of course)
+- Audacity (trim, effects, more)
+- gedit, edits the .ini text files....
+- FreeSound.org (free sounds everywhere!!!)
+- etc..., what is it?
