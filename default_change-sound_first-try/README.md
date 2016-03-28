@@ -13,9 +13,12 @@ and Music selected sound is bad explosion at a momment.
 
 List of FreeSound donwloads:
 Downloaded on March 28th, 2016
+==============================
+- S: wah wah sad trombone.wav by kirbydx -- http://www.freesound.org/people/kirbydx/sounds/175409/ -- License: Creative Commons 0 (Gameplay alternate failed, edited)
 - S: Sad Trombone.wav by Benboncan -- http://www.freesound.org/people/Benboncan/sounds/73581/ -- License: Attribution (Gameplay failed)
 - S: Shotgun Fire and Cock Sound for Gaming by Kodack -- http://www.freesound.org/people/Kodack/sounds/253734/ -- License: Creative Commons 0 (Unused yet)
 Downloaded on March 27th, 2016
+==============================
 - S: Access Denied by suntemple -- http://www.freesound.org/people/suntemple/sounds/249300/ -- License: Creative Commons 0 (Common invalid)
 - S: bad explosion by nthompson -- http://www.freesound.org/people/nthompson/sounds/47252/ -- License: Creative Commons 0 (Music Wheel select)
 - S: Shotgun Cock Reload Layered (Powerful) by Paul368 -- http://www.freesound.org/people/Paul368/sounds/200966/ -- License: Creative Commons 0 (Difficulty select with edits using Audacity)
