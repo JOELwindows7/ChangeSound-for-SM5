@@ -14,6 +14,14 @@ and Music selected sound is bad explosion at a momment.
 List of FreeSound donwloads:
 Downloaded on March 28th, 2016
 ==============================
+- S: crockery.aiff by DNABeast -- http://www.freesound.org/people/DNABeast/sounds/127200/ -- License: Creative Commons 0 (mashed with Alternate failed)
+- S: White Noise.wav by kstein1 -- http://www.freesound.org/people/kstein1/sounds/52645/ -- License: Sampling+ (mashed with Alternate failed)
+- S: Hit Table 03.wav by Emata7890 -- http://www.freesound.org/people/Emata7890/sounds/322317/ -- License: Creative Commons 0 (mashed with Alternate failed)
+- S: Cracks.wav by JarredGibb -- http://www.freesound.org/people/JarredGibb/sounds/219042/ -- License: Creative Commons 0 (mashed with Alternate failed)
+- S: Girl Crying by MadamVicious -- http://www.freesound.org/people/MadamVicious/sounds/218184/ -- License: Creative Commons 0 (mashed with Alternate failed)
+- S: Life Lost Game Over by noirenex -- http://www.freesound.org/people/noirenex/sounds/159408/ -- License: Creative Commons 0 (mashed with Alternate failed)
+- S: Thrown Object by Bexhillcollege -- http://www.freesound.org/people/Bexhillcollege/sounds/272065/ -- License: Creative Commons 0 (mashed with Alternate failed)
+- S: ObjectImpact.wav by jfajner -- http://www.freesound.org/people/jfajner/sounds/70929/ -- License: Sampling+ (mashed with Alternate failed)
 - S: wah wah sad trombone.wav by kirbydx -- http://www.freesound.org/people/kirbydx/sounds/175409/ -- License: Creative Commons 0 (Gameplay alternate failed, edited)
 - S: Sad Trombone.wav by Benboncan -- http://www.freesound.org/people/Benboncan/sounds/73581/ -- License: Attribution (Gameplay failed)
 - S: Shotgun Fire and Cock Sound for Gaming by Kodack -- http://www.freesound.org/people/Kodack/sounds/253734/ -- License: Creative Commons 0 (Unused yet)
