@@ -13,14 +13,14 @@ and Music selected sound is bad explosion at a momment.
 
 List of FreeSound donwloads:
 Downloaded on March 27th, 2016
-     S: Access Denied by suntemple -- http://www.freesound.org/people/suntemple/sounds/249300/ -- License: Creative Commons 0 (Common invalid)
-     S: bad explosion by nthompson -- http://www.freesound.org/people/nthompson/sounds/47252/ -- License: Creative Commons 0 (Music Wheel select)
-     S: Shotgun Cock Reload Layered (Powerful) by Paul368 -- http://www.freesound.org/people/Paul368/sounds/200966/ -- License: Creative Commons 0 (Difficulty select with edits using Audacity)
-     S: Short Fart_01 by DSISStudios -- http://www.freesound.org/people/DSISStudios/sounds/241000/ -- License: Creative Commons 0 (Music wheel change)
+     - S: Access Denied by suntemple -- http://www.freesound.org/people/suntemple/sounds/249300/ -- License: Creative Commons 0 (Common invalid)
+     - S: bad explosion by nthompson -- http://www.freesound.org/people/nthompson/sounds/47252/ -- License: Creative Commons 0 (Music Wheel select)
+     - S: Shotgun Cock Reload Layered (Powerful) by Paul368 -- http://www.freesound.org/people/Paul368/sounds/200966/ -- License: Creative Commons 0 (Difficulty select with edits using Audacity)
+     - S: Short Fart_01 by DSISStudios -- http://www.freesound.org/people/DSISStudios/sounds/241000/ -- License: Creative Commons 0 (Music wheel change)
      S: BOMB.WAV by dkmedic -- http://www.freesound.org/people/dkmedic/sounds/104439/ -- License: Creative Commons 0 (Player Mine)
      
 
 List of Non-freesounders:
-      Chest Open/Close by Mojang or other entities... (Music Wheel expand/collapse)
-      Windows Sounds old 2nd gen set by Microsoft and other entities... (tada = save, common value = ding, common start = chime, common cancel = Recycle emptied)
+      - Chest Open/Close by Mojang or other entities... (Music Wheel expand/collapse)
+      - Windows Sounds old 2nd gen set by Microsoft and other entities... (tada = save, common value = ding, common start = chime, common cancel = Recycle emptied)
      
